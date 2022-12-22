@@ -5,11 +5,14 @@
     --font: 'Karla', sans-serif;
 }
 
+
+
+
 html {
     margin: 0;
     hight: 100%;
     
-    background-image: url('/images/sky.png');
+    background-image:linear-gradient(#e8e0ff,#7e65f5);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
