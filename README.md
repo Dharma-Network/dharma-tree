@@ -1,5 +1,5 @@
 # Dharma Linktree:sparkles:
-https://dharma.algofam.tech
+https://dharma.algofam.tech/
 
 ## Where to host your website?
 Netlify: https://netlify.app
