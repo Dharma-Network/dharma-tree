@@ -9,7 +9,14 @@ html {
     margin: 0;
     hight: 100%;
     
-    background-image:linear-gradient(#e8e0ff,#7e65f5);
+    /*background-image:linear-gradient(#e8e0ff,#7e65f5);*/
+    
+    /* Created with https://www.css-gradient.com */
+    background: #5A3FDB;
+    background: -webkit-linear-gradient(bottom, #5A3FDB, #B79FE3);
+    background: -moz-linear-gradient(bottom, #5A3FDB, #B79FE3);
+    background: linear-gradient(to top, #5A3FDB, #B79FE3);
+    
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
