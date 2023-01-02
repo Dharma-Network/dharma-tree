@@ -36,4 +36,4 @@ background-color: #7e65f5;
 background-image:linear-gradient(#e8e0ff,#7e65f5);
 
 ## Demo
-https://linktree-template.algofam.tech
+https://linktree-template.algofam.tech/
