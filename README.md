@@ -49,7 +49,7 @@ You can find your wanted color code here: https://www.color-hex.com
 background-color: #7E65F5;  
 
 ### Gradient Backround Color
-background-image: linear-gradient(#E8E0FF,#7E65F5);  
+background-image: linear-gradient(#E8E0FF, #7E65F5);  
 
 ## Demo
 https://linktree-template.algofam.tech/
