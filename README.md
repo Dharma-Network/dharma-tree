@@ -47,14 +47,22 @@ The final code shoud look like this: "fa-solid fa-book"
 
 ## Backround image 
 You can change backround to color instead of using an image.  
-You can find your wanted color code here: https://www.color-hex.com  
 
 ### Backround Color
 background-color: #7E65F5;  
+You can find your wanted color code here: https://www.color-hex.com  
 
 ### Gradient Backround Color
-https://www.css-gradient.com/  
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
+CSS Gradient Generator: https://www.css-gradient.com/  
+
+## Other Free Resources
+Coolors (colors palettes): https://coolors.co  
+ColorsWall (colors palette): https://colorswall.com  
+CSS color picker from photos: https://imagecolorpicker.com/  
+CSS color keyword: https://www.w3.org/wiki/CSS/Properties/color/keywords#Basic_Colors  
+Google Fonts: https://fonts.google.com/  
+Favicon (icons): https://favicon.io/  
 
 ## Demo
 https://linktree-template.algofam.tech/
