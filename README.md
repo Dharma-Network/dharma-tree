@@ -6,8 +6,11 @@ Netlify: https://netlify.app
 Github Pages: https://pages.github.com  
 
 ## Analytics 
-Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/  
-Microsoft Clarity: https://clarity.microsoft.com  
+I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
+
+Google Tag Menger: https://tagmanager.google.com/  
+Microsoft Clarity: https://clarity.microsoft.com/  
+Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
 
 ## Social Media Icons
@@ -41,6 +44,7 @@ The final code shoud look like this: "fa-solid fa-book"
 ### style.css file
 1. line 4 - text color  
 2. line 12 - your backround image  
+
 ## Backround image 
 You can change backround to color instead of using an image.  
 You can find your wanted color code here: https://www.color-hex.com  
@@ -49,7 +53,8 @@ You can find your wanted color code here: https://www.color-hex.com
 background-color: #7E65F5;  
 
 ### Gradient Backround Color
-background-image: linear-gradient(#E8E0FF, #7E65F5);  
+https://www.css-gradient.com/  
+background-image: linear-gradient(#E8E0FF,#7E65F5);  
 
 ## Demo
 https://linktree-template.algofam.tech/
