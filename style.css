@@ -71,13 +71,13 @@ body {
   box-sizing: inherit;
 }
 
-.userName {
+.userName {   
     display: block;
     text-align: center;
     text-decoration: none;
     font-weight: 600;
-    font-size: 30px;
     margin: 10px auto;
+    font-size: 20px;
 }
 
 .description {
@@ -85,9 +85,9 @@ body {
     margin: 27px auto;
     margin-top: 10px;
     font-weight: 500;
-    font-size: 25px;
     weight: 90%;
     max-width: 500px;
+    font-size: 15px;
 }
 
 .profilePicture, .profilePicture img {
@@ -115,7 +115,6 @@ body {
     position: relative;
     background-color: transparent;
     color: var(--textColor);
-    font-size: 20px;
     border-style: solid; 
     border-color: var(--textColor);
     border-width: 2px;
