@@ -76,7 +76,7 @@ body {
     text-align: center;
     text-decoration: none;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 30px;
     margin: 10px auto;
 }
 
@@ -84,8 +84,8 @@ body {
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
-    font-weight: 400;
-    font-size: 15px;
+    font-weight: 500;
+    font-size: 25px;
     weight: 90%;
     max-width: 500px;
 }
@@ -115,6 +115,7 @@ body {
     position: relative;
     background-color: transparent;
     color: var(--textColor);
+    font-size: 20px;
     border-style: solid; 
     border-color: var(--textColor);
     border-width: 2px;
