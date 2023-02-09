@@ -18,7 +18,7 @@ html {
     background: -webkit-linear-gradient(bottom, #7E66F5, #E8E0FF);
     background: -moz-linear-gradient(bottom, #7E66F5, #E8E0FF);
     background: linear-gradient(to top, #7E66F5, #E8E0FF);*/
-    background-image: url('dharmabg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: relative;
