@@ -37,13 +37,15 @@ The final code shoud look like this: "fa-solid fa-book"
 1. line 7 - website title  
 2. line 10 - website icon image  
 3. line 15 - profile image  
-4. line 19 - user name  
-5. line 23 - description  
-6. lines 27-55 - your social media links  
+4. line 20 - user name  
+5. line 24 - description  
+6. lines 28-52 - your social media links  
 
 ### style.css file
-1. line 4 - text color  
-2. line 12 - your backround image  
+1. line 1 - font (importing it from google fonts)  
+2. line 4 - text color  
+3. line 5 - font 
+4. line 21 - your backround image  
 
 ## Backround image 
 You can change backround to color instead of using an image.  
@@ -66,3 +68,4 @@ Favicon (icons): https://favicon.io/
 
 ## Demo
 https://linktree-template.algofam.tech/
+ 
